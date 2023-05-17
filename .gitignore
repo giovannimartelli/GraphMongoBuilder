@@ -1,0 +1,5 @@
+/DbManager/.idea/.idea.DbManager/.idea/.gitignore
+.idea
+*/obj/*
+*/bin/*
+.DS_Store
