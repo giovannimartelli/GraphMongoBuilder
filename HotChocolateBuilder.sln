@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotChocolateBuilder", "HotChocolateBuilder\HotChocolateBuilder.csproj", "{7A8D7BBC-5E3F-4183-8B3E-9027F1FB467A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A8D7BBC-5E3F-4183-8B3E-9027F1FB467A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8D7BBC-5E3F-4183-8B3E-9027F1FB467A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8D7BBC-5E3F-4183-8B3E-9027F1FB467A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8D7BBC-5E3F-4183-8B3E-9027F1FB467A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
